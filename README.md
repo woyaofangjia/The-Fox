@@ -1,0 +1,1 @@
+运行Builds文件夹下的The Fox.exe文件即可开始游戏
