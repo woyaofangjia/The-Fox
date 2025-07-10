@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/115 Udemy-2D-Platformer-Final-Project/Udemy 2D Platformer/Assets/Scenes/Main_Menu.unity
+    guid: 2e3961366d60b7e4190391e18932439d
+  - enabled: 1
+    path: Assets/Scenes/testing2.unity
+    guid: 9b5e798477cfe9f498b250aff131ae08
+  - enabled: 1
+    path: Assets/Scenes/testing3.unity
+    guid: 1967f738315d03b4cbc2dd427410579c
+  - enabled: 1
+    path: Assets/115 Udemy-2D-Platformer-Final-Project/Udemy 2D Platformer/Assets/Scenes/Levels/Level1-1.unity
+    guid: 4a9da5e5e390b534fbae033858c19b73
+  - enabled: 1
+    path: Assets/115 Udemy-2D-Platformer-Final-Project/Udemy 2D Platformer/Assets/Scenes/Levels/Level1-2.unity
+    guid: a3c6960dc8708b0419c7a561d4cdb8e5
+  - enabled: 1
+    path: Assets/115 Udemy-2D-Platformer-Final-Project/Udemy 2D Platformer/Assets/Scenes/Levels/Level1-3.unity
+    guid: 976069c5171956448a5fa333de2f77ec
+  - enabled: 1
+    path: Assets/115 Udemy-2D-Platformer-Final-Project/Udemy 2D Platformer/Assets/Scenes/Levels/Boss-1.unity
+    guid: f2ff7791177a7824bbe5c19060e1ea87
+  - enabled: 1
+    path: Assets/Scenes/Level Select.unity
+    guid: ed3b9fb342c0fb5408ffff9d823f453d
+  - enabled: 1
+    path: Assets/115 Udemy-2D-Platformer-Final-Project/Udemy 2D Platformer/Assets/Scenes/Victory_Screen.unity
+    guid: d5ceb409119616a45ac6f987eec10559
+  - enabled: 1
+    path: Assets/115 Udemy-2D-Platformer-Final-Project/Udemy 2D Platformer/Assets/Scenes/Levels/Level1-4.unity
+    guid: d9bb9d2101f98de47887564fa6786a2c
+  - enabled: 1
+    path: Assets/115 Udemy-2D-Platformer-Final-Project/Udemy 2D Platformer/Assets/Scenes/Levels/Level1-5.unity
+    guid: 68b04dcadd3b54c44b45188d07c22e56
+  m_configObjects: {}
